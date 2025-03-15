@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [](https://github.com/sohanurshadhin/fm-nft-preview-card)
+- Live Site URL: [](https://nftpreviewcard-vert.vercel.app/)
 
 ## My process
 
