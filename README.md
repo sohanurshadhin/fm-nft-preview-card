@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/sohanurshadhin/fm-nft-preview-card)
-- Live Site URL: [](https://nftpreviewcard-vert.vercel.app/)
+- Solution URL: [Frontend Mentor](https://github.com/sohanurshadhin/fm-nft-preview-card)
+- Live Site URL: [Vercel](https://nftpreviewcard-vert.vercel.app/)
 
 ## My process
 
@@ -38,4 +38,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sohanurshadhin)
+- Frontend Mentor - [@sohanurshadhin](https://www.frontendmentor.io/profile/sohanurshadhin)
+- Instagram - [@SohanurShadhinn](https://www.instagram.com/sohanurshadhin/)
+- LinkedIn - [@sohanurshadhin](https://www.linkedin.com/in/sohanurshadhin/)
+- X - [@SohanurShadhinn](https://x.com/SohanurShadhinn)
